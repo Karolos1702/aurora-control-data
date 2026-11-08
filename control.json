@@ -1,0 +1,35 @@
+{
+  "payload": {
+    "format": 1,
+    "serial": 9,
+    "issuedAt": 1793389398954,
+    "maintenance": {
+      "enabled": false,
+      "message": ""
+    },
+    "announcements": [],
+    "features": {
+      "play": true,
+      "modInstalls": true,
+      "imports": true,
+      "capeSharing": true,
+      "discordRpc": true
+    },
+    "disabledModules": [],
+    "bans": [],
+    "roles": [
+      {
+        "uuid": "398e13be-88ad-4020-a809-9868d8d9a771",
+        "name": "_mickey_mouse",
+        "role": "owner"
+      },
+      {
+        "uuid": "0ee2e126-dde3-4cc6-9694-66fcab085472",
+        "name": "Veqxyz",
+        "role": "staff"
+      }
+    ]
+  },
+  "signature": "rd8T9pUG5guNUFS6Zv8ExgBLb7JTvrPIpzgfe2/ODnW9WrI3ozdhZCp37BUyVVtsLsa9Vo1lX0JnAvxIyud6AA==",
+  "keyId": "b1b8092a4983314a"
+}
