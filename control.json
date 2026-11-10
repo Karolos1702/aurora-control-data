@@ -1,8 +1,8 @@
 {
   "payload": {
     "format": 1,
-    "serial": 12,
-    "issuedAt": 1794336792661,
+    "serial": 13,
+    "issuedAt": 1794336797155,
     "maintenance": {
       "enabled": false,
       "message": ""
@@ -22,15 +22,10 @@
         "uuid": "398e13be-88ad-4020-a809-9868d8d9a771",
         "name": "_mickey_mouse",
         "role": "owner"
-      },
-      {
-        "uuid": "0ee2e126-dde3-4cc6-9694-66fcab085472",
-        "name": "Veqxyz",
-        "role": "vip"
       }
     ]
   },
-  "signature": "ieFmrbVxhsw002AprBebWvG+pU2Sn495H34Mn2FkqdZ4MNPa0fs7LfHjsxKHYWlafK0uIEn6IDrsuVF8nQTJBQ==",
+  "signature": "z7au44jCPX6d2DFhyqXjCcegQ3XPsT9lR5lqGJAytRwecYtAizHIkJFg8PA+2mf6YpBY/yNKO7AB92Jh64G9DQ==",
   "keyId": "78437aa73a75a3dd",
   "delegation": {
     "publicKey": "MCowBQYDK2VwAyEAfrFv8AgwRcNmws7ABy4LbsH1OwnuIy17uhLnhLRQ5LU=",
