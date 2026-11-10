@@ -1,8 +1,8 @@
 {
   "payload": {
     "format": 1,
-    "serial": 9,
-    "issuedAt": 1793389398954,
+    "serial": 10,
+    "issuedAt": 1794336759934,
     "maintenance": {
       "enabled": false,
       "message": ""
@@ -22,14 +22,17 @@
         "uuid": "398e13be-88ad-4020-a809-9868d8d9a771",
         "name": "_mickey_mouse",
         "role": "owner"
-      },
-      {
-        "uuid": "0ee2e126-dde3-4cc6-9694-66fcab085472",
-        "name": "Veqxyz",
-        "role": "staff"
       }
     ]
   },
-  "signature": "rd8T9pUG5guNUFS6Zv8ExgBLb7JTvrPIpzgfe2/ODnW9WrI3ozdhZCp37BUyVVtsLsa9Vo1lX0JnAvxIyud6AA==",
-  "keyId": "b1b8092a4983314a"
+  "signature": "xEndvdnChRDVgghSibNhHqUBDvQXvzcMNeeM2f8W6tsIQcotym9wllE81GIxXRArSjzqpSbVW54faqU9WiGnDQ==",
+  "keyId": "78437aa73a75a3dd",
+  "delegation": {
+    "publicKey": "MCowBQYDK2VwAyEAfrFv8AgwRcNmws7ABy4LbsH1OwnuIy17uhLnhLRQ5LU=",
+    "keyId": "78437aa73a75a3dd",
+    "label": "Chrome on Windows",
+    "issuedAt": 1794125443037,
+    "expiresAt": 1801901443037,
+    "signature": "DhNZQCBRdvqAuclcwNi4o5rNUXCh+OoiaM5MtX2DgPHBfqrIYGfKV4m20MhzfVqSnsKkMmgyh09hJQp5ypURCw=="
+  }
 }
