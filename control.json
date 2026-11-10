@@ -1,8 +1,8 @@
 {
   "payload": {
     "format": 1,
-    "serial": 11,
-    "issuedAt": 1794336785783,
+    "serial": 12,
+    "issuedAt": 1794336792661,
     "maintenance": {
       "enabled": false,
       "message": ""
@@ -26,11 +26,11 @@
       {
         "uuid": "0ee2e126-dde3-4cc6-9694-66fcab085472",
         "name": "Veqxyz",
-        "role": "owner"
+        "role": "vip"
       }
     ]
   },
-  "signature": "gIS5NczDcH+mEoQld8LfAbK5odVYeO9/llY/Ls5LArppc58xw80cP+Uw/QuFFmYk2JYQgmNhy+hzW0mWYlAqBA==",
+  "signature": "ieFmrbVxhsw002AprBebWvG+pU2Sn495H34Mn2FkqdZ4MNPa0fs7LfHjsxKHYWlafK0uIEn6IDrsuVF8nQTJBQ==",
   "keyId": "78437aa73a75a3dd",
   "delegation": {
     "publicKey": "MCowBQYDK2VwAyEAfrFv8AgwRcNmws7ABy4LbsH1OwnuIy17uhLnhLRQ5LU=",
